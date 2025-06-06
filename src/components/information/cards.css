@@ -1,0 +1,16 @@
+.rect
+{
+fill: none;
+stroke: #ff0000;
+stroke-width: .5;
+stroke-dasharray: none;
+stroke-opacity: 1;
+paint-order: stroke markers fill;
+
+
+}
+
+svg {
+  display: block;       /* elimina el espacio por línea base */
+  vertical-align: middle; /* opcional si usas inline-block */
+}
